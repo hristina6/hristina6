@@ -6,5 +6,5 @@
     <img src="https://skillicons.dev/icons?i=js,java,react,kotlin,laravel,nextjs,nodejs,php,postgres,postman,html,css,c,cs,cpp,dart,django,docker,kubernetes,dotnet,ember,figma,flutter,wordpress,github&perline=6" />
   </a>
 </p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hristina6&layout=donut-vertical" alt="Top Languages" />
+<img src="(https://github-readme-stats.vercel.app/api/top-langs/?hristina6=anuraghazra&hide_progress=true" alt="Top Languages" />
 
