@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Hristina 👩‍💻
 🌱 I'm currently Student at Faculty of Computer Science and Engineering  
 
-<table align="center">
+<table align="center" border="0">
   <tr>
     <td align="center">
       <h1>My Skills</h1>
