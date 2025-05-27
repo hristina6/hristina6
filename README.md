@@ -1,5 +1,8 @@
 # Hi there 👋 I'm Hristina 👩‍💻
 🌱 I'm currently Student at Faculty of Computer Science and Engineering  
+📫 Reach me at  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 <h1 align="center">My Skills</h1>
 <p align="center">
   <a href="https://skillicons.dev">
