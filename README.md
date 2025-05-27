@@ -1,12 +1,12 @@
 # Hi there 👋 I'm Hristina 👩‍💻
 🌱 I'm currently Student at Faculty of Computer Science and Engineering  
 
-<table>
+<table align="center">
   <tr>
     <td>
-      <h1 align='centre'>My Skills</h1>
+      <h1 align="center">My Skills</h1>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,java,react,kotlin,laravel,nextjs,nodejs,php,postgres,postman,html,css,c,cs,cpp,dart,django,docker,kubernetes,dotnet,ember,figma,flutter,wordpress,github&perline=6" alt="Skill Icons" />
+        <img src="https://skillicons.dev/icons?i=js,java,react,kotlin,laravel,nextjs,nodejs,php,postgres,postman,html,css,c,cs,cpp,dart,django,docker,kubernetes,dotnet,ember,figma,flutter,wordpress,github&perline=6" />
       </a>
     </td>
     <td>
@@ -14,4 +14,3 @@
     </td>
   </tr>
 </table>
-
