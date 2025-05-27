@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Hristina 👩‍💻
 🌱 I'm currently Student at Faculty of Computer Science and Engineering  
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <div>
     <h1>My Skills</h1>
     <a href="https://skillicons.dev">
