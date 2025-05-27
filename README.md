@@ -3,7 +3,7 @@
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <div>
-    <h1 align="center">My Skills</h1>
+    <h1>My Skills</h1>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=js,java,react,kotlin,laravel,nextjs,nodejs,php,postgres,postman,html,css,c,cs,cpp,dart,django,docker,kubernetes,dotnet,ember,figma,flutter,wordpress,github&perline=6" />
     </a>
