@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Hristina 👩‍💻
 🌱 I'm currently Student at Faculty of Computer Science and Engineering  
 📫 Reach me at  <a href="www.linkedin.com/in/hristina-trajceska-1a9b22367">
-    <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-1024.png" alt="LinkedIn Badge"/>
+    <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-1024.png" alt="LinkedIn Badge" width='20' height='20'/>
   </a>
 <h1 align="center">My Skills</h1>
 <p align="center">
