@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋 I'm Hristina
 <h1 align="center">My Skills</h1>
 <p align="center">
   <a href="https://skillicons.dev">
