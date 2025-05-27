@@ -1,4 +1,5 @@
-# Hi there 👋 I'm Hristina
+# Hi there 👋 I'm Hristina 👩‍💻
+🌱 I'm currently Student at Faculty of Computer Science and Engineering  
 <h1 align="center">My Skills</h1>
 <p align="center">
   <a href="https://skillicons.dev">
